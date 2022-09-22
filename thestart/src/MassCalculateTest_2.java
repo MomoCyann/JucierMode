@@ -1,4 +1,4 @@
-public class MassCalculateTest {
+public class MassCalculateTest_2 {
     public static void main(String[] args) {
         //获取两个整数较大值
         int m = 10;

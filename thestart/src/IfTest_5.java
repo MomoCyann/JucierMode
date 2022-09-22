@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfTest {
+public class IfTest_5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double grade = scan.nextDouble();

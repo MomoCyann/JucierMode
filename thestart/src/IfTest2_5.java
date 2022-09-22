@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class IfTest2 {
+public class IfTest2_5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("请输入三个数字");

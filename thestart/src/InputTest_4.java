@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputTest {
+public class InputTest_4 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("please input the num1");
@@ -14,5 +14,6 @@ public class InputTest {
         System.out.println("please input the string");
         String str = scan.next();
         char str2 = str.charAt(0); //获取索引位置0的字符
+        System.out.println(str2);
     }
 }

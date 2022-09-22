@@ -1,4 +1,4 @@
-public class CalculateTest {
+public class CalculateTest_1 {
     public static void main(String[] args) {
         //随意给出一个三位数整数，打印他的百位数十位数个位数
         int num = 648;
