@@ -1,4 +1,4 @@
-public class ArrayTest {
+public class ArrayTest_8 {
     public static void main(String[] args) {
         int[] array = new int[]{1, 2, 3, 4, 5, 6};
         // 获取数组长度
